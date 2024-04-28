@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ahtkom/dev/run-test/build",
+  "command": "/usr/bin/c++ -Dgeostxxx_EXPORTS  -std=gnu++14 -fPIC -o CMakeFiles/geostxxx.dir/foo.cpp.o -c /home/ahtkom/dev/run-test/foo.cpp",
+  "file": "/home/ahtkom/dev/run-test/foo.cpp",
+  "output": "CMakeFiles/geostxxx.dir/foo.cpp.o"
+}
+]
