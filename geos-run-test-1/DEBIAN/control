@@ -1,0 +1,6 @@
+Package: run-geos-arm-test
+Version: 0.1
+Lincense: MIT
+Architecture: mips64el
+Maintainer: ahtkom
+Description: cmaodcmac
