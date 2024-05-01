@@ -1,3 +1,0 @@
-/home/ahtkom/dev/run-test/build/CMakeFiles/geostxxx.dir
-/home/ahtkom/dev/run-test/build/CMakeFiles/edit_cache.dir
-/home/ahtkom/dev/run-test/build/CMakeFiles/rebuild_cache.dir
